@@ -1,0 +1,67 @@
+/* KHUNG ẢNH CHUNG CHO TOÀN BỘ SẢN PHẨM */
+
+.product-image {
+    width: 100%;
+    height: 230px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+
+    background: #ffffff;
+
+    padding: 15px;
+}
+
+
+/* TẤT CẢ ẢNH SẢN PHẨM */
+
+.product-image img {
+    width: 100%;
+    height: 100%;
+
+    object-fit: contain;
+    object-position: center;
+
+    display: block;
+
+    transition: transform 0.3s ease;
+}
+
+
+/* HOVER */
+
+.product:hover .product-image img {
+    transform: scale(1.04);
+}
+
+
+/* CARD SẢN PHẨM CÙNG KÍCH THƯỚC */
+
+.product {
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+
+    overflow: hidden;
+}
+
+
+/* PHẦN NỘI DUNG */
+
+.product-content {
+    display: flex;
+    flex-direction: column;
+
+    flex: 1;
+}
+
+
+/* TAG LUÔN NẰM CUỐI CARD */
+
+.tags {
+    margin-top: auto;
+}
