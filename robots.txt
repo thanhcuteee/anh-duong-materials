@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://anhduongmaterials.netlify.app/sitemap.xml
+Sitemap: https://thanhcuteee.github.io/anh-duong-materials/sitemap.xml
