@@ -1,0 +1,38 @@
+ÁNH DƯƠNG MATERIALS - WEBSITE MỚI
+=================================
+
+Cấu trúc:
+- index.html: Trang chủ
+- san-pham.html: Danh mục sản phẩm
+- thep-cuon-can-nong-hrc.html
+- thep-cuon-can-nguoi-crc.html
+- thep-ma-kem-gi.html
+- thep-tam.html
+- thep-ong-hop.html
+- dich-vu.html
+- ung-dung.html
+- kien-thuc.html
+- gioi-thieu.html
+- lien-he.html
+- cam-on.html
+- style.css
+- script.js
+- sitemap.xml
+- robots.txt
+- images/: toàn bộ ảnh người dùng cung cấp
+
+Cách thay website cũ:
+1. Sao lưu thư mục hiện tại.
+2. Giữ thư mục .git nếu đang kết nối GitHub.
+3. Chép toàn bộ file trong gói này vào thư mục banhangrong.
+4. Nếu có file cũ trùng tên, thay thế bằng file mới.
+5. Kiểm tra index.html bằng trình duyệt.
+6. Terminal:
+   git add .
+   git commit -m "Lam moi website Anh Duong Materials"
+   git push
+
+Lưu ý:
+- Form liên hệ dùng Netlify Forms.
+- Sitemap đang dùng địa chỉ https://anhduongmaterials.netlify.app
+- Khi mua domain riêng, cần đổi canonical và URL trong sitemap.

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://anhduongmaterials.netlify.app/</loc>
-  </url>
-
-  <url>
-    <loc>https://anhduongmaterials.netlify.app/thep-cuon-can-nong-hrc.html</loc>
-  </url>
-
+  <url><loc>https://anhduongmaterials.netlify.app/</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/san-pham.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/thep-cuon-can-nong-hrc.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/thep-cuon-can-nguoi-crc.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/thep-ma-kem-gi.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/thep-tam.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/thep-ong-hop.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/dich-vu.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/ung-dung.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/kien-thuc.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/gioi-thieu.html</loc></url>
+  <url><loc>https://anhduongmaterials.netlify.app/lien-he.html</loc></url>
 </urlset>
